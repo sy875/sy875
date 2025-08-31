@@ -23,9 +23,9 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=<your-username>&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sy875&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sy875&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=sy875&theme=radical)  
 
 ---
 
@@ -40,4 +40,4 @@ Here are some of my best works:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-linkedin>)  
 ---
 
-⭐️ From [<your-username>](https://github.com/sy875)
+⭐️ From [sy875](https://github.com/sy875)
